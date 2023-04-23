@@ -1,6 +1,9 @@
 # KiCad-Libraries
  Personal KiCad libraries
 
+## General
+Remember to add `GH_LIB_DIR` to Environment Variables (Preferences->Configure Path)
+
 ## Symbols
 Checklist for symbol creation/import
 ### R/C/L
