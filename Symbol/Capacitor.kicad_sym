@@ -73,7 +73,7 @@
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Tolerance" "~" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "ki_keywords" "cap capacitor" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
