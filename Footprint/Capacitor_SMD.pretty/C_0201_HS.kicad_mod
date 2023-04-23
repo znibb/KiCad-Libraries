@@ -1,4 +1,4 @@
-(footprint "C_0201_HandSolder" (version 20221018) (generator pcbnew)
+(footprint "C_0201_HS" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Capacitor SMD 0201 (0603 Metric) HandSolder")
   (tags "capacitor handsolder")
@@ -7,7 +7,7 @@
       (effects (font (size 0.5 0.5) (thickness 0.08)))
     (tstamp c946e9a8-f0c5-418a-841b-e8cbd55d48fb)
   )
-  (fp_text value "C_0201_HandSolder" (at 0 1.05) (layer "F.Fab") hide
+  (fp_text value "C_0201_HS" (at 0 1.05) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 78cc474e-9dfd-47d2-b837-55cd4ec984e2)
   )
