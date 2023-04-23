@@ -1,9 +1,15 @@
 # KiCad-Libraries
  Personal KiCad libraries
 
-## Footprints
+## Symbols
+Checklist for symbol creation/import
+### R/C/L
+H Align - Left on all text
+Double check footprint filters
 
-### Resistors
+## Footprints
+Checklist for footprint creation/import
+### R/C/L
 Hide Value
 Check Description
 Fix 3D-model
