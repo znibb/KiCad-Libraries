@@ -1,4 +1,4 @@
-(footprint "R_0402_HandSolder" (version 20221018) (generator pcbnew)
+(footprint "R_0402_HS" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Resistor SMD 0402 (1005 Metric) HandSolder")
   (tags "resistor handsolder")
@@ -7,7 +7,7 @@
       (effects (font (size 0.75 0.75) (thickness 0.1)))
     (tstamp 0c165861-b12e-4393-ab1f-dfc8b701d1c7)
   )
-  (fp_text value "R_0402_HandSolder" (at 0 1.17) (layer "F.Fab") hide
+  (fp_text value "R_0402_HS" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c52f77ff-c91c-4987-8ad1-e0348780a747)
   )
