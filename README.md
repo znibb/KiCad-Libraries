@@ -28,7 +28,6 @@ Add 0.4x0.6mm filled rectangle to silkscreen
 
 
 
-
 # NEXT STEP
 THT LED
 Slide switch
