@@ -9,7 +9,7 @@
     (property "Footprint" "Connector_USB:USB4135-GF-A" (at 0 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Datasheet" "https://github.com/znibb/KiCad-Libraries/blob/main/Datasheet/Connector/USB4135-GF-A-Product_Drawing.pdf" (at 0 7.62 0)
+    (property "Datasheet" "${DATASHEETS}/Connector/USB4135-GF-A-Product_Drawing.pdf" (at 0 7.62 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Manufacturer" "GCT" (at 0 10.16 0)

@@ -9,7 +9,7 @@
     (property "Footprint" "Package_SO:TSSOP-16_4.4x5mm_P0.65mm" (at 0 7.62 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Datasheet" "https://github.com/znibb/KiCad-Libraries/blob/main/Datasheet/Interface_ShiftRegister/74HC595-Datasheet.pdf" (at 0 10.16 0)
+    (property "Datasheet" "${DATASHEETS}/Interface_ShiftRegister/74HC595-Datasheet.pdf" (at 0 10.16 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Manufacturer" "Nexperia USA Inc." (at 0 12.7 0)

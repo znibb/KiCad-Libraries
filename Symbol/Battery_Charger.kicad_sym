@@ -9,7 +9,7 @@
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5" (at 0 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Datasheet" "https://github.com/znibb/KiCad-Libraries/blob/main/Datasheets/Battery_Chargers/MCP73831-DS20001984H.pdf" (at 0 7.62 0)
+    (property "Datasheet" "${DATASHEETS}/Battery_Charger/MCP73831-DS20001984H.pdf" (at 0 7.62 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Manufacturer" "Microchip Technology" (at 0 10.16 0)

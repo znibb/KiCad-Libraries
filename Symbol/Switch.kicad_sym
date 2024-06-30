@@ -63,7 +63,7 @@
     (property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645" (at 0 7.62 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Datasheet" "https://github.com/znibb/KiCad-Libraries/blob/main/Datasheet/Button_Switch_SMD/PTS645-Datasheet.pdf" (at 0 10.16 0)
+    (property "Datasheet" "${DATASHEETS}/Button_Switch_SMD/PTS645-Datasheet.pdf" (at 0 10.16 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Manufacturer" "C&K" (at 0 12.7 0)
