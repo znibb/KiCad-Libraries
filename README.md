@@ -19,6 +19,7 @@
     - FOOTPRINTS
     - MODELS
     - SYMBOLS
+    - TEMPLATES
 1. Click `OK`
 1. Go to `Preferences->Manage Symbol Libraries...`
 1. Click `Add existing library to table` (folder icon) and add all the .kicad_sym files from the SYMBOLS directory (be aware of duplicate names between the imported and default libraries)
